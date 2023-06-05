@@ -12,6 +12,4 @@ Activité Pratique N°6 : Systèmes Distribués Asynchrones avec FAFKA  et Sprin
 ![image](https://github.com/YassineOurara/KAFKA-SpringCLoud_Stream/assets/101317995/9d474523-0025-49f4-b35c-ac128424aeb1)
 ![image](https://github.com/YassineOurara/KAFKA-SpringCLoud_Stream/assets/101317995/7aa08127-761e-445c-a625-fb86bce36c49)
 ![image](https://github.com/YassineOurara/KAFKA-SpringCLoud_Stream/assets/101317995/5281a74e-2592-4d00-94d1-196847e4225c)
-
-
-
+![0](https://github.com/YassineOurara/KAFKA-SpringCLoud_Stream/assets/101317995/34ca4b47-6678-4567-b02e-40ee72393564)
