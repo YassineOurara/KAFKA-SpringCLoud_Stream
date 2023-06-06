@@ -49,3 +49,5 @@ Activité Pratique N°6 : Systèmes Distribués Asynchrones avec FAFKA  et Sprin
 
     Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
 
+![0](https://github.com/YassineOurara/KAFKA-SpringCLoud_Stream/assets/101317995/259d88b0-66fb-4a6f-8797-9220b9295c69)
+
